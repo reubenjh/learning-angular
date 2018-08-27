@@ -4,6 +4,7 @@ import { Component } from '@angular/core';
   selector: 'my-app',
   template: `
     <user></user>
+    
   `,
 })
 export class AppComponent  { 
